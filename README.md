@@ -1,8 +1,8 @@
 ## Acerca de mí
 
-Hola, soy Johan Collao, un Analista y Programador Computacional titulado en Duoc UC, actualmente cursando la carrera de Ingeniería en Informática en la misma institución. A lo largo de mi trayectoria académica y laboral, he desarrollado una fuerte pasión por la tecnología y el desarrollo de software. Mi capacidad para aprender continuamente ha sido clave para mi crecimiento y reintegración en el sector tecnológico, donde he tenido la oportunidad de trabajar en diversos proyectos, tanto en frontend como en backend.
+Hola, soy Johan Collao, Analista y Programador Computacional en Duoc UC, actualmente cursando la carrera de Ingeniería en Informática en la misma institución. Mi trayectoria académica y laboral refleja una fuerte pasión por la tecnología y el desarrollo de software. He tenido la oportunidad de trabajar en diversos proyectos que abarcan tanto el frontend como el backend, lo que me ha permitido desarrollar un perfil versátil y adaptable.
 
-Estoy comprometido con el aprendizaje constante y la excelencia en cada proyecto que emprendo. En este repositorio, encontrarás algunos de mis trabajos y proyectos, los cuales reflejan mi experiencia y habilidades en distintas tecnologías.
+Me considero una persona comprometida con el aprendizaje constante y la excelencia en cada proyecto que emprendo. En este repositorio, encontrarás algunos de mis trabajos y proyectos, los cuales reflejan mi experiencia y habilidades en distintas tecnologías.
 
 ## Tecnologías
 
@@ -10,6 +10,7 @@ Estoy comprometido con el aprendizaje constante y la excelencia en cada proyecto
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
   - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
   - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=30)
   - ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 
 - **Desarrollo Frontend:**
@@ -21,6 +22,8 @@ Estoy comprometido con el aprendizaje constante y la excelencia en cada proyecto
   - ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
   - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
   - ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?logo=django&logoColor=white)
+  - ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=asp.net&logoColor=white)
+  - ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
 
 - **Bases de Datos:**
   - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white)
