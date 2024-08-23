@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="Desarrollador(2).png" alt="Mi imagen" width="200"/> <!-- Ajusta el ancho según necesites -->
+  <img src="https://github.com/JohanCollaoV/JohanCollaoV/blob/main/Desarrollador(2).png" alt="Mi imagen" width="200"/> <!-- Ajusta el ancho según necesites -->
 </p>
-
 <p ><strong><h1 align="center">👋 Hola, soy Johan Collao</h1></strong></p>                                       
 
 
