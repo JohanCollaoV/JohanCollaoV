@@ -1,3 +1,8 @@
+
+
+<p ><strong><h1 align="center">👋 Hola, soy Johan Collao</h1></strong></p>                                       
+
+
 ## Acerca de mí
 
 Hola, soy Johan Collao, Analista y Programador Computacional en Duoc UC, actualmente cursando la carrera de Ingeniería en Informática en la misma institución. Mi trayectoria académica y laboral refleja una fuerte pasión por la tecnología y el desarrollo de software. He tenido la oportunidad de trabajar en diversos proyectos que abarcan tanto el frontend como el backend, lo que me ha permitido desarrollar un perfil versátil y adaptable.
