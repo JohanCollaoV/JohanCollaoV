@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JohanCollaoV/JohanCollaoV/blob/main/Desarrollador(3).png" alt="Banner" width="80%"/> <!-- Ajusta el ancho según necesites -->
+  <img src="https://github.com/JohanCollaoV/JohanCollaoV/blob/main/Desarrollador(3).png" alt="Banner" width="90%"/> <!-- Ajusta el ancho según necesites -->
 </p>
                                
 
