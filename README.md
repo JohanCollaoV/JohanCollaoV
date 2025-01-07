@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JohanCollaoV/JohanCollaoV/blob/main/Desarrollador(3).png" alt="Banner" width="90%"/> <!-- Ajusta el ancho según necesites -->
+  <img src="https://github.com/JohanCollaoV/JohanCollaoV/blob/main/Desarrollador(3).png" alt="Banner" width="70%"/> <!-- Ajusta el ancho según necesites -->
 </p>
                                
 
@@ -45,7 +45,7 @@ Me considero una persona comprometida con el aprendizaje constante y la excelenc
 ## Contacto
 
 - **Email:** collao.johan@gmail.com
-- **LinkedIn:** [linkedin.com/in/johan-cv-9985861b9](https://www.linkedin.com/in/johan-cv-9985861b9)
+- **LinkedIn:** [linkedin.com/in/johan-collao-vivanco](https://www.linkedin.com/in/johan-collao-vivanco/))
 - **GitHub:** [JohanCollaoV](https://github.com/JohanCollaoV)
 
 
