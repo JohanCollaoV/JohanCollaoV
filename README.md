@@ -6,12 +6,46 @@
 
 ## Acerca de mí
 
-Hola, soy Johan Collao, Ingeniero en Informática y Analista Programador Computacional.
+### Ingeniero en Informática | Cloud Infrastructure & Operations Specialist
 
-Me especializo en el desarrollo de aplicaciones backend y full stack, con interés en diseño de soluciones, arquitectura de software y entornos cloud. He trabajado en proyectos donde he participado en el modelado de datos, desarrollo de APIs y despliegue de aplicaciones.
 
-Actualmente, estoy profundizando en cloud computing, diseño de arquitecturas y fundamentos de seguridad, es por eso, que en este repositorio comparto proyectos y pruebas técnicas que reflejan mi forma de trabajar, priorizando soluciones claras, escalables y bien estructuradas.
+Proactivo y orientado a resultados, con experiencia gestionando infraestructura Cloud en **AWS** (EC2, EKS), orquestación de contenedores (**Docker/Kubernetes**) y administración de servidores **Linux** en entornos de alta disponibilidad.
 
+Especializado en **Soporte TI Avanzado (N2/N3)**, optimización de costos en la nube (**FinOps**), automatización con **Bash** y monitoreo de sistemas críticos bajo SLAs estrictos.
+
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+**Cloud & Infraestructura:**
+`AWS (EC2, EKS, RDS)` • `Kubernetes` • `Docker` • `Linux (Red Hat/Ubuntu)` • `ArgoCD`
+
+**Operaciones & Automatización:**
+`Bash Scripting` • `FinOps` • `Monitoreo SLAs` • `Gestión de Vulnerabilidades (CVEs)` • `Jira`
+
+**Bases de Datos & Desarrollo:**
+`PostgreSQL` • `AWS RDS` • `Snowflake` • `C# .NET` • `Java` • `JavaScript` • `SQL`
+
+---
+
+### 📜 Certificaciones Destacadas
+
+- ☁️ **AWS Certified Cloud Practitioner** — Amazon Web Services
+- 🛡️ **Ethical Hacking Professional (CEHPC)** — CertiProf
+- 🔒 **Cisco Certified Support Technician Cybersecurity (CCST)** — Cisco
+- ⚡ **Scrum Master Professional Certification (SMPC)** — CertiProf
+- ⚙️ **DevOps Essentials Professional Certificate (DEPC)** — CertiProf
+
+---
+
+### 📊 Lo que hago actualmente
+
+- 🔭 Trabajo como **Ingeniero de Soporte TI (Cloud & Operations)** en KDU Ingeniería.
+- 💰 Implementando prácticas de **FinOps** que han reducido un 30% los costos operativos en AWS.
+- ⚡ Automatizando flujos de incidentes con **Bash**, reduciendo tiempos de respuesta en un 25%.
+- 🎯 Preparándome para la certificación **AWS Certified Solutions Architect – Associate**.
+
+---
 
 ## Contacto
 
